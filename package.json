@@ -1,0 +1,23 @@
+{
+  "name": "gitlab-systemhook-handler",
+  "version": "0.1.0",
+  "description": "Web handler / middleware for processing Gitlab System hooks",
+  "main": "gitlab-systemhook-handler.js",
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "keywords": [
+    "gitlab",
+    "systemhook"
+  ],
+  "author": "zengjing <hhtczengjing@gmail.buffer-equal-constant-time>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hhtczengjing/gitlab-systemhook-handler.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bl": "~1.1.2",
+    "buffer-equal-constant-time": "~1.0.1"
+  }
+}
