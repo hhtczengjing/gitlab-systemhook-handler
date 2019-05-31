@@ -4,19 +4,13 @@
 
 ### Usage
 
-#### (1) 配置npm
-
-```
-npm set registry http://npm.powerdata.com.cn
-```
-
-#### (2) 安装
+#### (1) 安装
 
 ```
 npm install gitlab-systemhook-handler --save
 ```
 
-#### (3) 集成
+#### (2) 使用
 
 ```
 var http = require('http')
