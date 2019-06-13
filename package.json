@@ -10,7 +10,7 @@
     "gitlab",
     "systemhook"
   ],
-  "author": "zengjing <hhtczengjing@gmail.buffer-equal-constant-time>",
+  "author": "zengjing <hhtczengjing@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/hhtczengjing/gitlab-systemhook-handler.git"
